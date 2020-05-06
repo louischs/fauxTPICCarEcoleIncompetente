@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace fauxTPICarEcoleIncompetente
 {
-    public partial class Form1 : Form
+    public partial class register : Form
     {
-        public Form1()
+        public register()
         {
             InitializeComponent();
         }
